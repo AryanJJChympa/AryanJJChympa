@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Jain Chympa</h1>
-<h3 align="center">Hello I'm Aryan, and I’m currently pursuing my BCA from JECRC University. I'm in my 2nd year and very Passionate in Solving Questions. 💻 My primary language is C++, and I’m currently focusing on building a strong foundation in problem-solving through DSA (having solved 40+ questions on Leetcode/G4G). I’m also learning Web Development. 🚀 It’s just the beginning, with much more to come!</h3>
+<h3 align="center">Hello I'm Aryan, and I’m currently pursuing my BCA from JECRC University. I'm in my 2nd year and very Passionate in Solving Questions. 💻 My primary language is C++, and I’m currently focusing on building a strong foundation in problem-solving through DSA (having solved 90+ questions on Leetcode/G4G). I’m also learning Web Development. 🚀 It’s just the beginning, with much more to come!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjjchympa&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjjchympa" /> </p>
 
