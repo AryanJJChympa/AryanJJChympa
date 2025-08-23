@@ -50,7 +50,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,shadcn" />
 </p>
 
 ---
