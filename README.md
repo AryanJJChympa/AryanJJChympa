@@ -37,7 +37,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/JY8leuGw8v" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/aryan3638/" target="_blank">
@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/JY8leuGw8v?theme=dark&font=Karma&ext=heatmap" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true" width="350"/>
+  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true" width="350"/>](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true)
 </p>
 
 ---
