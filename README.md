@@ -18,7 +18,7 @@
 - 🎓 I'm a **3rd-year Engineering Student**  
 - 💡 Solved **300+ DSA problems** on **LeetCode** & **GeeksforGeeks**  
 - 💻 Primary Language → **C++**  
-- 🌱 Currently learning → **Web Development (React + Tailwind + MERN)**  
+- 🌱 Technologies → **React, Tailwind, NodeJs, Express, MongoDb, Axios, Cloudinary, LLM, Figma, VsCode, Git & Github)**  
 - 🎯 Goal → To become a **Full-Stack Developer** and crack **top placements**  
 - 🧩 Interests → DSA, Web Dev, AI Tools, Problem Solving  
 - 📫 **Reach me:** `aryanjjchympa@gmail.com`
@@ -89,10 +89,10 @@
 
 | Project | Tech Stack | Description |
 |--------|-----------|-------------|
-| [**CourseNova**](https://github.com/aryanjjchympa/CourseNova) | React, Tailwind, Node.js, MongoDB | A complete **LMS platform** for course creation & learning. |
-| [**Habit Tracker Web App**](https://github.com/aryanjjchympa/Habit-Tracker) | MERN, Tailwind | A personal habit tracking app with analytics. |
-| [**ACoffee Website**](https://github.com/aryanjjchympa/ACoffee) | HTML, CSS, JS | A Netflix-style responsive landing page for a coffee brand. |
-| [**EchorTrip**](https://github.com/aryanjjchympa/EchorTrip) | React, Bootstrap, Clerk Auth | Tour booking platform with authentication & dynamic itineraries. |
+| [**ChatLy**](https://chatly-fullstack-chatapp.onrender.com/) | REACT, Tailwind, Node.js, EXPRESS, MongoDB, SOCKETIO| A full stack Chat Application |
+| [**NoteFlow**](https://noteflow-t4zv.onrender.com/) | REACT, Tailwind, Node.js, EXPRESS, MongoDB | A personal note tracking app for personal use. |
+| [**ACoffee**](https://a-coffee.vercel.app/) | HTML, CSS, JS, FIGMA | A responsive Coffee Ordering Landing Page |
+| [**Snake Game**](https://snake-game-flax-eta.vercel.app/) | HTML, CSS, JS, Local Storage | A JS Snake Game for Desktop with High Scores and Good sound effects |
 
 ---
 
