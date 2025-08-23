@@ -1,23 +1,107 @@
+<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Aryan Jain Chympa</h1>
-<h3 align="center">Hello I'm Aryan, and I’m currently pursuing my BCA from JECRC University. I'm in my 2nd year and very Passionate in Solving Questions. 💻 My primary language is C++, and I’m currently focusing on building a strong foundation in problem-solving through DSA (having solved 90+ questions on Leetcode/G4G). I’m also learning Web Development. 🚀 It’s just the beginning, with much more to come!</h3>
+<h3 align="center">
+🚀 Passionate C++ Programmer | Web Developer | Problem-Solving Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjjchympa&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjjchympa" /> </p>
-
-- 📫 How to reach me **aryanjjchympa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryanjjc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan jain chympa" height="30" width="40" /></a>
-<a href="https://instagram.com/aryan_j_chympa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_j_chympa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/JY8leuGw8v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan3638" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/aryan3638/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryan3638" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Aryan+Jain+Chympa;300%2B+DSA+Problems+Solved;MERN+%7C+Web+Development+Learner;Always+Learning+New+Things!+💻" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjjchympa&show_icons=true&locale=en&layout=compact" alt="aryanjjchympa" /></p>
+## 🧑‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjjchympa&show_icons=true&locale=en" alt="aryanjjchympa" /></p>
+- 🎓 I'm a **3rd-year Engineering Student**  
+- 💡 Solved **300+ DSA problems** on **LeetCode** & **GeeksforGeeks**  
+- 💻 Primary Language → **C++**  
+- 🌱 Currently learning → **Web Development (React + Tailwind + MERN)**  
+- 🎯 Goal → To become a **Full-Stack Developer** and crack **top placements**  
+- 🧩 Interests → DSA, Web Dev, AI Tools, Problem Solving  
+- 📫 **Reach me:** `aryanjjchympa@gmail.com`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjjchympa&" alt="aryanjjchympa" /></p>
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/aryanjjc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/aryan_j_chympa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/JY8leuGw8v" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/aryan3638/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjjchympa&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjjchympa&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjjchympa&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🏆 LeetCode & GFG Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/JY8leuGw8v?theme=dark&font=Karma&ext=heatmap" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true" width="350"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjjchympa&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+| Project | Tech Stack | Description |
+|--------|-----------|-------------|
+| [**CourseNova**](https://github.com/aryanjjchympa/CourseNova) | React, Tailwind, Node.js, MongoDB | A complete **LMS platform** for course creation & learning. |
+| [**Habit Tracker Web App**](https://github.com/aryanjjchympa/Habit-Tracker) | MERN, Tailwind | A personal habit tracking app with analytics. |
+| [**ACoffee Website**](https://github.com/aryanjjchympa/ACoffee) | HTML, CSS, JS | A Netflix-style responsive landing page for a coffee brand. |
+| [**EchorTrip**](https://github.com/aryanjjchympa/EchorTrip) | React, Bootstrap, Clerk Auth | Tour booking platform with authentication & dynamic itineraries. |
+
+---
+
+## 💡 Fun Fact  
+
+> 🌟 *"Code. Learn. Build. Repeat."* 🚀  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanjjchympa&label=Profile+Views&color=6C63FF&style=flat" alt="Profile views" />
+</p>
+
+---
