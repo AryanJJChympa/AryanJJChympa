@@ -71,8 +71,21 @@
 ## 🏆 LeetCode & GFG Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/JY8leuGw8v?theme=dark&font=Karma&ext=heatmap" width="450" />
-  [<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true" width="350"/>](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=aryanjjchympa&repo=DSA-Practice&theme=tokyonight&hide_border=true)
+  <!-- LeetCode Heatmap Card -->
+  <img 
+    src="https://leetcard.jacoblin.cool/JY8leuGw8v?theme=dark&font=Karma&ext=heatmap" 
+    width="450" 
+    alt="LeetCode Stats" 
+  />
+
+  <!-- LeetCode Profile Button -->
+  <a href="https://leetcode.com/u/JY8leuGw8v/" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://img.shields.io/badge/LeetCode%20Profile-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" 
+      alt="LeetCode Profile" 
+      width="250"
+    />
+  </a>
 </p>
 
 ---
