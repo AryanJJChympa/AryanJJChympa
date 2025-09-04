@@ -102,6 +102,7 @@
 
 | Project | Tech Stack | Description |
 |--------|-----------|-------------|
+| [**JournAi**](https://journ-ai-nine.vercel.app/) | REACT, Tailwind, Gemini | An Ai companion with mood switching feature (StudyBuddy, StoryTeller, Humorous, etc.)|
 | [**ChatLy**](https://chatly-fullstack-chatapp.onrender.com/) | REACT, Tailwind, Node.js, EXPRESS, MongoDB, SOCKETIO| A full stack Chat Application |
 | [**NoteFlow**](https://noteflow-t4zv.onrender.com/) | REACT, Tailwind, Node.js, EXPRESS, MongoDB | A personal note tracking app for personal use. |
 | [**ACoffee**](https://a-coffee.vercel.app/) | HTML, CSS, JS, FIGMA | A responsive Coffee Ordering Landing Page |
